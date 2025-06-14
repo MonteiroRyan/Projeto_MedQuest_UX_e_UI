@@ -1,5 +1,5 @@
-**🚀 Transformando ideias em aplicativos com Flutter 🎨📱**
-# Projeto 
+# **🚀 Transformando ideias em aplicativos com Flutter 🎨📱**
+# 💡 MedQuest – Aplicativo para Monitoramento de Saúde 🏥
 
 Um aplicativo Flutter para gerenciamento de compromissos médicos, inspirado nas imagens fornecidas.
 
